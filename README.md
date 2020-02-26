@@ -2,4 +2,6 @@
   
 by Tyler Mcginnis
 
-next: [Modern JavaScript](https://coursehunter.net/course/sovremennyy-javascript-tyler-mcginnis) (by Tyler Mcginnis)
+next by Tyler Mcginnis:
+
+- [Modern JavaScript](https://coursehunter.net/course/sovremennyy-javascript-tyler-mcginnis) ()

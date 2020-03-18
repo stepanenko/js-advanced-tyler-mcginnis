@@ -1,8 +1,10 @@
 ## [Advanced JavaScript](https://coursehunter.net/course/advanced-javascript)
   
-by **Tyler Mcginnis**
+by **Tyler McGinnis**
 
-**Duration: 03:06:38**
+Duration: **03:06:38**
+
+Updated: **07.10.2018**
 
 next by Tyler Mcginnis:
 

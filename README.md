@@ -1,6 +1,6 @@
 ## [Advanced JavaScript](https://coursehunter.net/course/advanced-javascript)
   
-by **Tyler McGinnis**
+By: **Tyler McGinnis**
 
 Duration: **03:06:38**
 

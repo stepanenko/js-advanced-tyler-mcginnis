@@ -45,6 +45,6 @@ JavaScript Modules: From IIFEs to CommonJS to ES6 Modules
 Creating your own JavaScript Array
 
 #
-Next to-do:
-[Modern JavaScript](https://coursehunter.net/course/sovremennyy-javascript-tyler-mcginnis)
+Next todo:
+**[Modern JavaScript](https://coursehunter.net/course/sovremennyy-javascript-tyler-mcginnis)**
 ( Tyler McGinnis )

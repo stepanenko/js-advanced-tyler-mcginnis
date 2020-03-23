@@ -44,10 +44,21 @@ array.prototype.myFilter = function (cb) {
   return filtered;
 }
 
-const a = array('John', 'Bill');
-a.push(45);
-const res = a.myFilter(val => typeof(val) === 'string');
-console.log(res); 
+array.prototype.shift = function () {
+  if (this.length < 1) return;
+  const deleted = this[0];
+  for (let i = 0; i < this.length; i++) {
+    this[i] = this[i + 1];
+  }
+  this.length--;
+  delete this[this.length];
+  return deleted;
+}
 
-let ar = [1, 2, 3];
-// console.log(ar.filter(val => val === 2));
+const a = array(5, 'Jerry', 76, 'John', 'Bill');
+a.shift();
+a.push(45);
+
+const res = a.myFilter(val => typeof(val) === 'string');
+console.log(res);
+console.log(a);

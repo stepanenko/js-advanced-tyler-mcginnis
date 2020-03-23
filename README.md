@@ -1,5 +1,5 @@
 # [Advanced JavaScript](https://coursehunter.net/course/advanced-javascript)
-  
+
 By: **Tyler McGinnis**
 
 Duration: **03:06:38**
@@ -8,7 +8,7 @@ Updated: **07.10.2018**
 
 ## Lessons:
 
-УРОК 1.
+**Current:** УРОК 1.
 00:25:35
 Execution Contexts, Hoisting, Scopes, and Closures in JavaScript
 
@@ -40,9 +40,9 @@ JavaScript Composition vs Inheritance
 00:32:14
 JavaScript Modules: From IIFEs to CommonJS to ES6 Modules
 
-**Current:** УРОК 9.
+УРОК 9.
 00:12:32
-Creating your own JavaScript Array
+Creating your own JavaScript Array (Done)
 
 #
 Next todo:
